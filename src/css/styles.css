@@ -1,0 +1,106 @@
+.carousel-item{
+  height: 400px;
+}
+
+.position{
+  position: absolute;
+  left: 10;
+  top: 40%;
+}
+
+.no-dec{
+  text-decoration: none;
+}
+
+/* Video section */
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto');
+a{
+   color:#333 !important;
+}
+section.video h2{
+  color:#333 !important;
+  font-family: 'Oswald', sans-serif;
+}
+section.video .watch-video{
+ font-family: 'Roboto', sans-serif;
+}
+section.video p.video-data {
+    color: #808080;
+}
+.video-sec{
+  margin: 0 205px;
+}
+
+.card{
+  height: 300px;
+}
+
+.publish-date{
+  font-size: 9px;
+}
+
+.btn{
+  background-color: white;
+  padding: 14px 24px;
+}
+
+.btn{
+  background-color: #E40000;
+}
+
+.no{
+  padding: 35px 0 0 0;
+}
+
+.sec-bg-img-knowledge-base{
+  position: absolute;
+  z-index: 0;
+}
+
+.no1{
+  padding: 0 0 35px 0;
+}
+
+.bg-color-beige{
+    background-color: #e9e2d0;
+}
+
+.red-text{
+  color: red;
+}
+
+.embed-responsive-item{
+  height: 100%;
+}
+
+.international-roaming-main{
+  background-color: #a3563c;
+}
+
+.additional-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.additional-nav-items {
+  float: left;
+}
+
+.additional-nav-items a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.additional-nav-items a:hover {
+  background-color: #111;
+}
+
+.gold{
+  background-color: #e9e2d0;
+}
